@@ -1,0 +1,33 @@
+{
+    "name": "runz0rd/openId-php",
+    "description": "OpenId consumer for php",
+    "keywords": ["library", "php", "openId", "consumer", "lightOpenId"],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Milos Pejanovic",
+            "email": "pejan123@gmail.com",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/runz0rd/openId-php/issues"
+    },
+    "require": {
+        "php": ">=7.0.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/"
+        ]
+    }
+}
