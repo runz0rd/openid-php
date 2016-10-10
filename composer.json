@@ -1,5 +1,5 @@
 {
-    "name": "runz0rd/openId-php",
+    "name": "runz0rd/openid-php",
     "description": "OpenId consumer for php",
     "keywords": ["library", "php", "openId", "consumer", "lightOpenId"],
     "license": "MIT",
@@ -12,7 +12,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/runz0rd/openId-php/issues"
+        "issues": "https://github.com/runz0rd/openid-php/issues"
     },
     "require": {
         "php": ">=7.0.1"
