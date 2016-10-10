@@ -8,7 +8,7 @@
  */
 namespace OpenId;
 
-class Consumer extends \LightOpenID {
+class Consumer extends \LightOpenID implements IConsumer {
 
 	const AUTH_NOW = 'AUTH_NOW';
 	const AUTH_CANCELLED = 'AUTH_CANCELLED';
